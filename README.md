@@ -1,1 +1,1 @@
-Tegemist on versioonihalduse harjutamisega
+GitHub on veebipõhine platvorm tarkvaraarenduseks ja koostööks, kus arendajad saavad hoida, jagada ja koos töötada oma tarkvaraallikakoodi projektidega. Seda kasutavad tarkvaraarendajad, avatud lähtekoodiga projektid, ettevõtted ja paljud teised, et hallata ja koostööd teha tarkvaraprojektidega.
