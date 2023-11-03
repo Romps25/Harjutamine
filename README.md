@@ -1,1 +1,1 @@
-GitHub on veebipõhine platvorm tarkvaraarenduseks ja koostööks, kus arendajad saavad hoida, jagada ja koos töötada oma tarkvaraallikakoodi projektidega. Seda kasutavad tarkvaraarendajad, avatud lähtekoodiga projektid, ettevõtted ja paljud teised, et hallata ja koostööd teha tarkvaraprojektidega.
+GitHub Inc. asutati 2008. aastal. Ettevõtte asutasid Tom Preston-Werner, Chris Wanstrath ja PJ Hyett. GitHubi teenus ise sai alguse 2007. aastal, kuid see muutus avalikkusele kättesaadavaks 2008. aastal.
